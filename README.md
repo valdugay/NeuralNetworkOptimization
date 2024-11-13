@@ -1,4 +1,4 @@
-# Exploring Optimizations in Neural Network Weighting
+# Exploring Optimization Algorithm in Neural Network Weighting
 
 This project delves into the world of neural network optimization, exploring various algorithms, their mathematical characteristics, and the impact of different optimization techniques on performance, convergence, and interpretability. By understanding these methods, we aim to improve model accuracy and training efficiency, advancing the use of neural networks in complex tasks.
 
