@@ -81,8 +81,8 @@ We utilize the **YearPredictionMSD** dataset from the UCI Machine Learning Repos
 | Adam                | Momentum + adaptive rate        | Robust across architectures                  | Potential instability in certain cases    |
 | Nadam               | Adam + Nesterov momentum        | Faster convergence                           | Complexity in hyperparameter adjustment   |
 
-## 📉 Figures
-*Insert diagrams and plots here.*
+## 📉 Figure
+![Algo Overview](FigureResume.png)
 
 ## Additional Sections
 ### Practical Applications
